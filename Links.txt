@@ -1,0 +1,6 @@
+TensorFlow Playground (Graphical Design and Training of Neural Networks):
+http://playground.tensorflow.org/
+
+Free Persian Machine Learning Book:
+https://www.researchgate.net/publication/358263339_yadgyry_mashyn_w_lm_dadh_mbany_mfahym_algwrytmha_w_abzarha
+
