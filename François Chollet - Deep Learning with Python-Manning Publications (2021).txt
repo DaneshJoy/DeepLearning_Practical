@@ -1,0 +1,5 @@
+لینک خرید کتاب
+https://www.manning.com/books/deep-learning-with-python-second-edition
+
+لینک کدهای کتاب
+https://github.com/fchollet/deep-learning-with-python-notebooks
