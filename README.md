@@ -4,8 +4,8 @@ Find useful documents in the [Docs](/Docs) folder (in Markdown format):
 
 | Doc                                                          |
 | ------------------------------------------------------------ |
-| [Local Installation with GPU support](https://github.com/DaneshJoy/DeepLearning_Practical/blob/main/Docs/Local Installation with GPU support.md) |
-| [Transformer models categorized by architecture type](https://github.com/DaneshJoy/DeepLearning_Practical/blob/main/Docs/Transformer models categorized by architecture type.md) |
-| [Vision Transformer Categorization](https://github.com/DaneshJoy/DeepLearning_Practical/blob/main/Docs/Vision Transformer Categorization.md) |
-| [Transformers for object detection](https://github.com/DaneshJoy/DeepLearning_Practical/blob/main/Docs/Transformers for object detection.md) |
-| [Transformers for text and image classification](https://github.com/DaneshJoy/DeepLearning_Practical/blob/main/Docs/Transformers for text and image classification.md) |
+| [Local Installation with GPU support](/Docs/Local%20Installation%20with%20GPU%20support.md) |
+| [Transformer models categorized by architecture type](/Docs/Transformer%20models%20categorized%20by%20architecture%20type.md) |
+| [Vision Transformer Categorization](/Docs/Vision%20Transformer%20Categorization.md) |
+| [Transformers for object detection](/Docs/Transformers%20for%20object%20detection.md) |
+| [Transformers for text and image classification](/Docs/Transformers%20for%20text%20and%20image%20classification.md) |
