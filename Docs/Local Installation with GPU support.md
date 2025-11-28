@@ -15,23 +15,23 @@
 
 ---
 
-## 2- Install Anaconda or Miniconda (for Linux)
+## 2- Install Miniconda (for Linux)
 
-- https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2
+- Installation guide: https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2
 
-- ```bash
-  mkdir -p ~/miniconda3
-  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
-  bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-  rm ~/miniconda3/miniconda.sh
-  ```
+- Install Miniconda
+    ```bash
+      mkdir -p ~/miniconda3
+      wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+      bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+      rm ~/miniconda3/miniconda.sh
+    ```
 
-### Create Virtual Environment
-
-```bash
-conda create -n <env_name> python=3.12
-conda activate <env_name>
-```
+- Create Virtual Environment
+    ```bash
+    conda create -n <env_name> python=3.12
+    conda activate <env_name>
+    ```
 
 ---
 
@@ -54,31 +54,31 @@ conda activate <env_name>
 
 - **Install**
 
-```bash
-python3 -m pip install tensorflow[and-cuda]
-```
+    ```bash
+    python3 -m pip install tensorflow[and-cuda]
+    ```
 
 - Test GPU Support
 
-```bash
-python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
-```
+    ```bash
+    python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+    ```
 
 ### PyTorch
 
 - https://pytorch.org/get-started/locally/
 
-```bash
-pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
-```
+    ```bash
+    pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
+    ```
 
 ### JAX
 
 - https://docs.jax.dev/en/latest/installation.html
 
-```bash
-pip install -U "jax[cuda12]"
-```
+    ```bash
+    pip install -U "jax[cuda12]"
+    ```
 
 ---
 
