@@ -155,7 +155,7 @@ vis_nms.show()
 
 ------
 
-## 4) (Nice to show) Zero-shot **open-vocabulary** detection
+## 4) Zero-shot **open-vocabulary** detection
 
 This is an advanced, evolving area. If you want a “wow” moment, demo grounding with a model like **OWL-ViT**:
 
@@ -173,7 +173,7 @@ vis.show()
 
 ------
 
-## 5) Minimal fine-tuning pointers (for when you expand)
+## 5) Minimal fine-tuning pointers
 
 Full detection training is heavier than classification. If you want to introduce it later:
 
