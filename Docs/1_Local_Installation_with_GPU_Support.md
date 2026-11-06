@@ -1,4 +1,4 @@
-# Local Installation
+# Keras Local Installation + GPU support
 
 
 ## 1- Install WSL in Windows
